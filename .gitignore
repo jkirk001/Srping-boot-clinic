@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+##Added##
+HELP.md
+mvnw
+mvnw.cmd
+pom.xml
+.mvn
+Spring-Pet-Clinic.iml
