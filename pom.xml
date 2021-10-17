@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>Spring-Pet-Clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>SpringPetClinic</name>
     <description>Spring-Pet-Clinic</description>
     <properties>
@@ -22,7 +22,7 @@
     </properties>
     <scm>
         <developerConnection>scm:git:git@github.com:jkirk001/Srping-boot-clinic.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>Spring-Pet-Clinic-0.0.2</tag>
     </scm>
 
     <build>
