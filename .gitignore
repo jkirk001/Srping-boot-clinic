@@ -36,6 +36,5 @@ build/
 HELP.md
 mvnw
 mvnw.cmd
-pom.xml
 .mvn
 Spring-Pet-Clinic.iml
